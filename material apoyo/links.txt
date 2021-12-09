@@ -1,0 +1,31 @@
+https://docs.google.com/presentation/d/1yFG40i5yzxg6dPBREtuAr66bEUlCx-hZAQRmIoNbAm4/edit?usp=sharing
+https://www.scrumstudy.com/
+
+https://nodejs.org/es/download/
+
+#Documentaciones
+https://developer.mozilla.org/es/
+https://www.w3schools.com/
+https://www.w3schools.com/css/css_pseudo_classes.asp
+
+https://en.bem.info/
+
+#Instalar GIT en el Path
+https://www.answerlookup.com/how-add-git-windows-path-environment-variable
+
+# Links instalación MongoDb
+https://medium.com/@LondonAppBrewery/how-to-download-install-mongodb-on-windows-4ee4b3493514
+https://docs.mongodb.com/manual/tutorial/install-mongodb-on-windows/
+https://docs.mongodb.com/manual/administration/install-on-linux/
+
+# Link instalación ExpressJS
+https://expressjs.com/es/starter/installing.html
+
+# Event loop JavaScript Server
+http://latentflip.com/loupe/?code=JC5vbignYnV0dG9uJywgJ2NsaWNrJywgZnVuY3Rpb24gb25DbGljaygpIHsKICAgIHNldFRpbWVvdXQoZnVuY3Rpb24gdGltZXIoKSB7CiAgICAgICAgY29uc29sZS5sb2coJ1lvdSBjbGlja2VkIHRoZSBidXR0b24hJyk7ICAgIAogICAgfSwgMjAwMCk7Cn0pOwoKY29uc29sZS5sb2coIkhpISIpOwoKc2V0VGltZW91dChmdW5jdGlvbiB0aW1lb3V0KCkgewogICAgY29uc29sZS5sb2coIkNsaWNrIHRoZSBidXR0b24hIik7Cn0sIDUwMDApOwoKY29uc29sZS5sb2coIldlbGNvbWUgdG8gbG91cGUuIik7!!!PGJ1dHRvbj5DbGljayBtZSE8L2J1dHRvbj4%3D
+
+# Linux Shell Scripting Tutorial (LSST) v2.0
+https://bash.cyberciti.biz/guide/Main_Page
+
+#Plataforma de entrenamiento
+https://codesignal.com/
